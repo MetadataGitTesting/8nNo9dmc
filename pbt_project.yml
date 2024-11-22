@@ -1,0 +1,57 @@
+name: vanda.mayer
+description: conglomeration
+version: 0.73.284
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: vandamayer
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:06:24'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:06:24'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:06:24.180643Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1937831319'
+  createdAt: '2024-11-22T23:06:24.180643Z'
+  type: plibMaven
+projectDependencies:
+  '192':
+    projectUID: 192
+    projectName: nora.dare
+    repositoryPath: gitUri=http://gitserver:3000/dev_Zp4w8dBt_team_315/dev_Zp4w8dBt_project_192.git&subPath=
+    version: nora.dare/3.3.983
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 23:06:22'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
